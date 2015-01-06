@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="crop_wallpaper">Hannergrondbild schneiden</string>
-  <string name="wallpaper_instructions">Hannergrondbild setzen</string>
-  <string name="wallpaper_load_fail">D\'Bild konnt net als Hannergrondbild geluede ginn</string>
+  <string name="crop_wallpaper">ওয়ালপেপার ছোট করিয়া কাটা</string>
+  <string name="wallpaper_instructions">ওয়ালপেপার বিন্যস্ত করা</string>
+  <string name="wallpaper_load_fail">ছবিটি ওয়ালপেপার হিসেবে স্থাপিত হয়নি</string>
 </resources>

@@ -47,6 +47,10 @@ interface IBluetoothManager
     boolean bindBluetoothProfileService(int profile, IBluetoothProfileServiceConnection proxy);
     void unbindBluetoothProfileService(int profile, IBluetoothProfileServiceConnection proxy);
 
+    boolean isRadioEnabled();
+    boolean enableRadio();
+    boolean disableRadio();
+
     String getAddress();
     String getName();
 }
